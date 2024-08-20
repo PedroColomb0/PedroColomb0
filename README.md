@@ -21,22 +21,21 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 <br> 
 
 <div align="center"> 
-  <a href="https://instagram.com/samukajj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuxka-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCR6tOZdHMWl6b6TIpcgpkKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samukactto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pedrocolomboo_/?img_index=1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-eduardo-colombo-da-silva-198602201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--  <a href="https://www.youtube.com/channel/UCR6tOZdHMWl6b6TIpcgpkKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:pedrocolombodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Portfolio -->
 ## 📑 Portfolio:
 [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
 <br>
-[Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
-<br>
 
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://tenor.com/pt-BR/view/developer-gif-23414225" alt="Imagem">
 </p>
 
 </div>
@@ -46,11 +45,11 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 ## 📈 Skills
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuxka&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuxka&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroColomb0&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroColomb0&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuxka&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroColomb0&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -59,26 +58,26 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="IntelliJ Idea" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <img align="center" alt="AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 
   ##
