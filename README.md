@@ -6,17 +6,17 @@
 
 <div align="center">
 
-Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 <br>
-🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+🌱 I’m currently studying Software Engineering at Unicesumar.
 <br>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+💬 I am 21 years old, currently living in Brazil. I work as a developer and have advanced English skills, with plans to obtain an international certification soon. My development experience includes SQL, JavaScript, Angular, Kotlin, Spring Boot, SAP HANA, and SAP Business One.
 
-⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+⚡ In my free time, I enjoy studying, reading, traveling, and occasionally playing games.
 </details>
 <br> 
 
@@ -29,16 +29,9 @@ Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
 
 <!-- Portfolio -->
 ## 📑 Portfolio:
-[Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+[Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
 <br>
-[Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-<br>
-[Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-<br>
-[Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-<br>
-[Client Registry System](https://github.com/VariableBee/Cartorio)
-
+[Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
 <br>
 
 <!-- GIF -->
