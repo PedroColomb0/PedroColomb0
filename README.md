@@ -27,6 +27,12 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
   <a href = "mailto:pedrocolombodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
+</picture>
+
 <!-- Portfolio -->
 ## 📑 Portfolio:
 [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
@@ -35,7 +41,6 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-  <img align="center" src="https://tenor.com/pt-BR/view/developer-gif-23414225" alt="Imagem">
 </p>
 
 </div>
