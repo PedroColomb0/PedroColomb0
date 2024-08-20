@@ -34,7 +34,7 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 
   <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/QDyD.gif" width ="600px" alt="Imagem">
+  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/QDyD.gif" width ="500px" alt="Imagem">
 </p>
 
 </div>
