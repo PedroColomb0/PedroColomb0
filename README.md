@@ -38,9 +38,9 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
 <br>
 
-<!-- GIF -->
+  <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/QDyD.gif" alt="Imagem">
 </p>
 
 </div>
