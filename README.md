@@ -34,7 +34,7 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 
   <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/QDyD.gif" width ="500px" alt="Imagem">
+  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/QDyD.gif" width ="400px" alt="Imagem">
 </p>
 
 </div>
@@ -87,5 +87,5 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
   ##
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;+Come+back+soon!+😁🙌" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=188AF7&&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;+Come+back+soon!+😁🙌" />
 </h1>
