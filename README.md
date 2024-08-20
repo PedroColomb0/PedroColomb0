@@ -27,12 +27,6 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
   <a href = "mailto:pedrocolombodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
-</picture>
-
 <!-- Portfolio -->
 ## 📑 Portfolio:
 [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
@@ -54,7 +48,12 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroColomb0&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroColomb0&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroColomb0/PedroColomb0/output/github-snake.svg">
+</picture>
+  <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroColomb0&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
