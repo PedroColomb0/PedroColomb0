@@ -29,12 +29,14 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 
 <!-- Portfolio -->
 ## 📑 Portfolio:
-[Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
+-> [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
+<br>
+<br>
 <br>
 
   <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/developer2.gif" width ="600px" alt="Imagem">
+  <img align="center" src="https://github.com/PedroColomb0/PedroColomb0/blob/main/gif/developer2.gif" width ="500px" alt="Imagem">
 </p>
 
 </div>
