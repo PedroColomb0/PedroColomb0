@@ -32,6 +32,11 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 -> [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
 <br>
 <br>
+
+<!-- Exercicios -->
+## 👨🏻‍💻 Exercises:
+-> [Exercicios-CursoEmVideo-VisualG](https://github.com/PedroColomb0/Exercicios-CursoEmVideo-VisualG)
+<br>
 <br>
 
   <!-- GIF -->
