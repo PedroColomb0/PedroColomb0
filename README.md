@@ -29,7 +29,9 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 
 <!-- Portfolio -->
 ## 📑 Portfolio:
--> [Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
+<!--
+[Projeto-Inicial-Front](https://github.com/PedroColomb0/projeto-inicial-front)
+--> 
 <br>
 <br>
 
