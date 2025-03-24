@@ -14,7 +14,7 @@ Hello 👋, I'm Pedro! A passionate Software Engineering student from Brazil.
 <details>
   <summary>👨‍💻 More about me</summary>
 
-💬 I am 21 years old, currently living in Brazil. I work as a developer and have advanced English skills, with plans to obtain an international certification soon. My development experience includes SQL, JavaScript, Angular, Kotlin, Spring Boot, SAP HANA, and SAP Business One.
+💬 I am 22 years old, currently living in Brazil. I work as a developer and have advanced English skills, with plans to obtain an international certification soon. My development experience includes SQL, JavaScript, Angular, Kotlin, Spring Boot, SAP HANA, and SAP Business One.
 
 ⚡ In my free time, I enjoy studying, reading, traveling, and occasionally playing games.
 </details>
